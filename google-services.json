@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209141437921",
+    "project_id": "sc-lil",
+    "storage_bucket": "sc-lil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209141437921:android:03de1f8f35e4a9d5e66ea0",
+        "android_client_info": {
+          "package_name": "com.flutter.material"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209141437921-vh661e894gi7eq720dcthna7dsa3457s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKykek01GW-XDtbOhDiKFrV9RCcP1dWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209141437921-vh661e894gi7eq720dcthna7dsa3457s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
